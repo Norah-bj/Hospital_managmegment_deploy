@@ -44,6 +44,8 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
+// Ambulance tracker screen
+
 const statsData = [
   {
     title: "Total ambulances",
